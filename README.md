@@ -4,18 +4,18 @@
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 * **AI Botanical Chatbot**: Tanya jawab seputar masalah tanaman dengan basis pengetahuan botani yang luas.
 * **Urban Gardening Tips**: Rekomendasi teknik menanam khusus untuk lahan sempit (apartemen/balkon).
 * **Real-time Guidance**: Panduan langkah demi langkah untuk perawatan tanaman harian.
 
-## 🛠️ Tech Stack
+## Tech Stack
 Project ini dibangun menggunakan teknologi modern:
 * **React.js** (Vite) untuk interface yang cepat dan responsif.
 * **Tailwind CSS** untuk desain UI yang bersih dan modern.
 * **Google Gemini AI API** sebagai otak di balik asisten chatbot.
 
-## 🚀 Cara Menjalankan Project
+## Cara Menjalankan Project
 
 Jika kamu ingin mencoba project ini di lokal, ikuti langkah berikut:
 
