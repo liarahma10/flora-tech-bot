@@ -1,16 +1,24 @@
-# React + Vite
+# 🌿 Flora-Tech: AI Urban Gardening Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Flora-Tech** adalah asisten cerdas berbasis AI yang dirancang untuk membantu masyarakat urban mengelola kebun di lahan terbatas. Dari tips perawatan sukulen hingga diagnosa tanaman yang layu, asisten ini hadir untuk memastikan jempol hijau kamu tetap produktif.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Fitur Utama
+* **AI Botanical Chatbot**: Tanya jawab seputar masalah tanaman dengan basis pengetahuan botani yang luas.
+* **Urban Gardening Tips**: Rekomendasi teknik menanam khusus untuk lahan sempit (apartemen/balkon).
+* **Real-time Guidance**: Panduan langkah demi langkah untuk perawatan tanaman harian.
 
-## React Compiler
+## 🛠️ Tech Stack
+Project ini dibangun menggunakan teknologi modern:
+* **React.js** (Vite) untuk interface yang cepat dan responsif.
+* **Tailwind CSS** untuk desain UI yang bersih dan modern.
+* **Google Gemini AI API** sebagai otak di balik asisten chatbot.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Cara Menjalankan Project
 
-## Expanding the ESLint configuration
+Jika kamu ingin mencoba project ini di lokal, ikuti langkah berikut:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone repository ini**
+   ```bash
+   git clone [https://github.com/liarahma10/flora-tech-bot.git](https://github.com/liarahma10/flora-tech-bot.git)
