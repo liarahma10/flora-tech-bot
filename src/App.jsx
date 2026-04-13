@@ -558,7 +558,7 @@ const ChatbotView = ({ garden, purchases, careLogs, theme }) => {
     try {
       // FIX 1: By leaving the apiKey empty, the Canvas environment's proxy will safely attach the key for you
       // This strictly prevents the CORS blocks and 'Failed to fetch' errors!
-      const apiKey = "AIzaSyD_kwpGnvTpkCAMY6MsrnE_GJ1EJtytVlA"; 
+      const apiKey = "AIzaSyCIjTo-KbqWrBnnm011w9nI-zCqF79_jfA"; 
       const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite-preview:generateContent?key=${apiKey}`;
 
       // Construct memory string from local storage state
